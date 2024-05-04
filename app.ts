@@ -13,3 +13,5 @@ function formatTime(seconds: number):string{
     return `hours ${hours} minutes ${minutes} seconds ${remainingSeconds}`
 }
 
+
+const targetDate = new Date('2024-12-31T23:59:59');

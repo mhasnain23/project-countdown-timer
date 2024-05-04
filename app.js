@@ -10,3 +10,4 @@ function formatTime(seconds) {
     const remainingSeconds = seconds * 60;
     return `hours ${hours} minutes ${minutes} seconds ${remainingSeconds}`;
 }
+const targetDate = new Date('2024-12-31T23:59:59');
