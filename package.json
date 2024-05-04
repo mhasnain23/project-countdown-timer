@@ -1,10 +1,10 @@
 {
   "name": "hasnain-countdown-timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "./app.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": "./app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

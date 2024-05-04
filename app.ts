@@ -55,4 +55,4 @@ function countdown(endDate: Date): void {
 }
 
 const endDate = new Date("2024-12-31T23:59:59");
-countdown(endDate)
+countdown(endDate);
